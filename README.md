@@ -1,1 +1,1 @@
-# Refactor HTML and CSS for Horiseon
+# Refactor HTML and CSS for Horiseon website.
